@@ -1,0 +1,15 @@
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\Vitor\Documents\ProcessosSeletivos\EstagioEsparta\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
